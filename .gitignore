@@ -1,0 +1,90 @@
+# OS generated files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder/
+Temporary Items/
+.apdisk
+
+# Linux
+*~
+.nfs*
+.directory
+.Trash-
+.nfs*
+
+# Editor folders and files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# Log files
+*.log
+
+# Build artifacts
+dist/
+build/
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.old
+*.orig
+*.save
+
+# System swap files
+*.DS_Store?
+*.db
+
+# IDE temporary files
+.vscode/
+.idea/
+*.iml
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.dylib
+
+# Misc
+Thumbs.db
+desktop.ini
