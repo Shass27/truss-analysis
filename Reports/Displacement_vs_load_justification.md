@@ -1,7 +1,7 @@
 #  DISPLACEMENT COMPARISON BETWEEN PRACTICAL EXPERIMENT AND ABAQUS SIMULATION AND JUSTIFICATION
 
-<img src = "Results/truss_node_displacement.png" width = "600">
-<img src = "Results/Detailed_node_wise_analysis.png">
+<img src = "../Results/truss_node_displacement.png" width = "600">
+<img src = "../Results/Detailed_node_wise_analysis.png">
 
 
 ## Experimental vs. Abaqus Comparison
